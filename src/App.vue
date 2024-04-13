@@ -3,7 +3,7 @@ import { RouterLink, RouterView } from 'vue-router'
 </script>
 
 <template>
-  <header className="">
+  <header className="max-w-2xl mx-auto">
     <nav className="flex items-center justify-between text-neutral-500">
       <RouterLink to="/">knlrvr</RouterLink>
       <div className="flex gap-8">

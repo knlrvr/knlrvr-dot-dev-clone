@@ -1,5 +1,5 @@
 <template>
-  <div class="my-16 flex gap-4">
+  <div class="mt-16 flex gap-4">
     <img
       src="../assets/kane.jpg"
       alt="pfp"
